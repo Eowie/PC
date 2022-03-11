@@ -1,0 +1,70 @@
+01 Unidades administrativas
+01.01 Freguesia
+01.02 Concelho
+01.03 Distrito
+01.04 Fronteira
+02 Toponímia 
+02.01 Designação local
+03 Altimetria
+03.01 Curva de nível
+03.02 Linha de quebra
+03.03 Ponto cotado
+03.04 Modelo Digital do Terreno
+04 Hidrografia
+04.01 Água lêntica
+04.02 Barreira
+04.03 Curso de água - área
+04.04 Curso de água - eixo
+04.05 Fronteira terra-água
+04.06 Margem
+04.07 Nascente
+04.08 Nó hidrográfico
+04.09 Queda de água
+04.10 Zona húmida
+05 Transportes
+05.01 Área da infraestrutura de transporte aéreo
+05.02 Infraestrutura de transporte aéreo
+05.03 Área da infraestrutura de transporte ferroviário
+05.04 Infraestrutura de transporte ferroviário
+05.05 Linha férrea
+05.06 Nó de transporte ferroviário
+05.07 Segmento da via-férrea
+05.08 Área da infraestrutura de transporte por cabo
+05.09 Segmento da via por cabo
+05.10 Área da infraestrutura de transporte por via navegável
+05.11 Infraestrutura de transporte por via navegável
+05.12 Área da infraestrutura de transporte rodoviário
+05.13 Infraestrutura de transporte rodoviário
+05.14 Nó de transporte rodoviário
+05.15 Segmento da via rodoviária
+05.16 Via rodoviária
+05.17 Via rodoviária - Limite
+05.18 Obra de arte
+06 Construções
+06.01 Construção linear
+06.02 Construção poligonal
+06.03 Edifício
+06.04 Pontos de interesse
+06.05 Sinal geodésico
+07 Ocupação do solo
+07.01 Área agrícola, florestal ou mato
+07.02 Área artificializada
+08 Infraestruturas e serviços
+de interesse público
+08.01 Administração pública e órgãos de soberania
+08.02 Cabo elétrico
+08.03 Conduta de água
+08.04 Elemento associado de água
+08.05 Elemento associado de eletricidade
+08.06 Elemento associado de petróleo, gás e substâncias 
+químicas
+08.07 Elemento associado de telecomunicações
+08.08 Equipamento de utilização coletiva
+08.09 Instalação de gestão ambiental
+08.10 Instalação de produção
+08.11 Oleoduto, gasoduto ou substâncias químicas
+09 Mobiliário urbano e sinalização 
+09.01 Mobiliário urbano e sinalização
+10 Ortofotos
+10.01 -
+11 Auxiliar 11.01 Área de trabalho
